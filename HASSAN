@@ -1,0 +1,115 @@
+
+body, h1, h2, h3, p, ul, li, form, input, textarea, button {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+
+
+
+header {
+    background-color: #2724ec; 
+    color: rgb(251, 255, 27); 
+    text-align: center; 
+    padding: 1em 0;
+}
+
+
+nav {
+    background-color: #df0a0a; 
+    text-align: center; 
+    padding: 0.5em 0; 
+}
+
+
+
+nav li {
+    margin: 0 2em; 
+    
+}
+
+nav a {
+    color: #e6e6e6; 
+}
+
+nav a:hover {
+    color: #5A2D0C;    
+
+} 
+
+
+.section {
+    padding: 2em 1em;
+}
+
+#hassu{
+    background-color:white;
+
+}
+
+
+
+
+
+#home {
+    background-color:rgb(191, 226, 195);
+    text-align: center;
+}
+
+#menu {
+     background-color: silver;
+     text-align: center;
+    
+    
+}
+
+#contact {
+   background-color: #ffffff; 
+}
+
+#sufi{
+    text-align: right;
+
+}
+
+
+.menu {
+    background: rgb(252, 252, 186);
+    border: 2px solid #000000; 
+    margin: 1em 0; 
+    padding: 1em; 
+    border-radius: 10px; 
+}
+
+.menu h3 {
+    margin-bottom: 0.5em; 
+}
+
+.menu span {
+    margin-top: 0.5em; 
+    font-weight: bold; 
+    color: #8B4513; 
+}
+
+
+label {
+    margin: 0.5em 0 0.2em;
+}
+
+input, textarea {
+    padding: 0.5em; 
+    margin-bottom: 1em; 
+    background-color: #dee6b2;
+    border: 2px solid #0f0404; 
+    border-radius: 5px; 
+    width: 92vw;
+}
+
+button {
+    background-color: #f70000; 
+    color: rgb(252, 250, 250); 
+    padding: 0.5em; 
+    border:2px solid #000000 ; 
+    border-radius: 5px; 
+}
